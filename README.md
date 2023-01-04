@@ -1,3 +1,5 @@
 # pet-landing-page
 
 Creating a landing page for my pets! I want to be able to showcase each pet, and add some JavaScript eventually.
+
+Also, I want to creat a "Buy a toy/treat" button where they can send money to be able to buy toys/treats for my pets.
